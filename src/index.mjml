@@ -1,0 +1,130 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>A Letter to Our Customers</mj-title>
+    <mj-preview>Standing together with our Salesforce family</mj-preview>
+    <mj-breakpoint width="480px" />
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+    <mj-attributes>
+      <mj-all font-family="Raleway, Arial" color="#505050" />
+
+      <mj-text font-size="16px" line-height="22px" />
+    </mj-attributes>
+
+    <mj-style>
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px">
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column border-top="5px solid #009cdb">
+        <mj-image width="100px" src="https://i.ibb.co/8PmVtxH/logo1.png" alt="salesforce company logo" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-text align="center" font-size="30px" padding-top="20px" padding-bottom="40px" line-height="35px">
+          A Letter to Our Customers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column padding-bottom="50px">
+        <mj-text font-weight="600">
+          Together, we are facing a truly unprecedented situation. The global coronavirus pandemic is affecting all of our families, our businesses, our communities, and our way of life. During this time, I wanted to reach out and update you on how we’re approaching the situation at Salesforce.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          First and foremost, our hearts go out to anyone who's been impacted by the virus, either directly or indirectly. Our thoughts are especially with those who are sick, to whom we extend our heartfelt wishes for a full recovery. And we're truly inspired by the selfless healthcare workers around the world who are on the front lines working tirelessly to care for people in need.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          Second, at Salesforce as at your companies, we’re focused on the health and safety of our employees, families and communities.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          All of our employees around the world have been strongly encouraged to work from home. With our highly-distributed workforce and many of our employees typically working remotely, this shift has been relatively smooth and we continue to deliver the highest levels of performance, availability, and security. During this time, we will continue to pay our vendor hourly service providers, who are an important part of our family.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          We're also asking our teams to work with customers through digital channels as much as possible. We're postponing some of our in-person events while turning others into virtual events, as we did with World Tour Sydney, with more than 80,000 customers attending digitally, and our second annual Trailblazing Women Summit, which attracted 1.2 million unique online viewers.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          Third, even as we deal with this pandemic, our 50,000-person team at Salesforce remains laser-focused on your success. While all our businesses are in uncharted territory, Salesforce was built to handle moments like this, and our relentless commitment to your success is stronger than ever. Our company was founded on core values -- trust, customer success, innovation, and equality -- and our values are unwavering and continue to guide everything we do.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          During this time, we are supporting our communities across the globe through philanthropic donations to support our local communities where we live and work. We're also making some of our technology available for our customers, partners and communities.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          Through <a href="#" target="_blank">Health Cloud</a>, Salesforce is offering free access for qualified emergency response teams, call centers and care management teams for health systems affected by coronavirus. Tableau, which we acquired last year, has developed a <a href="#" target="_blank">free data resource hub</a> to help organizations see and understand coronavirus data in near real-time, using case data compiled by Johns Hopkins University as well as data from the World Health Organization and the Centers for Disease Control and Prevention. To help teams collaborate while employees are away from the office, <a href="#" target="_blank">Quip Starter will be available for free</a> to any Salesforce customer or non-profit organization through September 30, 2020. Finally, our team has created a <a href="#" target="_blank">publicly-available Trailmix</a> on Trailhead with tips on how to work from home and maintain personal well-being during this time.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          If you are aware of other opportunities for us to help others with our technology, please let me know at <a href="#" target="_blank">ceo@salesforce.com</a>.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          We have amazing teams across Salesforce that are here for you. This moment reminds us that we're all connected like never before. We're called upon to be our best selves, with patience, understanding and compassion. On behalf of all of us at Salesforce, we're committed to being your partner and persevering together in all the days and years ahead.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          As we go forward, we'll be sure to keep you updated, and know that we always value your questions, ideas and feedback.
+        </mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-weight="600">
+          Sincerely, <br />
+          Marc Benioff <br />
+          Chair and CEO, Salesforce
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="#ded6cf" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text font-weight="600" padding-bottom="40px">
+          <small>
+            © 2020 salesforce.com, inc. All rights reserved. <br />
+            Salesforce.com, inc. Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States <br /><br />
+            General Inquiries: 415-901-7000 | Sales: 1-800-NO-SOFTWARE <br /><br />
+            <i>This email was sent to hello@SmilesDavis.yeah</i> <br /><br />
+            <a href="#" target="_blank">Privacy Statement</a>
+          </small>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
