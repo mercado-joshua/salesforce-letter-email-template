@@ -1,5 +1,5 @@
 # Title: Salesforce Letter Email Template
-* Click [here](https://mercado-joshua.github.io/virama-landing-page/) to view the project.
+* Click [here](https://mercado-joshua.github.io/salesforce-letter-email-template/) to view the project.
 * Checkout `index.html` for source code.
 
 ## Type
